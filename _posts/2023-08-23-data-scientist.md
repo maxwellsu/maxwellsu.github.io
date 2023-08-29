@@ -1,0 +1,3 @@
+### Data Scientist
+
+Being a data scientist is about collecting, working with and drawing conclusions from data. The knowledge required includes programming skill as well as knowledge of statistical methods and machine learning. The duties of a data scientist include data collecting, processing, cleaning, and modification, as well as model building, programming, and interpretation of results. Data scientists differ from statisticians in that statisticians tend to be more concerned with the mathematical part of the process and take a more scientific hypothesis-based approach, whereas data scientists tend to be more concerned with the results and application of the statistical processes, and take a more explanatory approach.
