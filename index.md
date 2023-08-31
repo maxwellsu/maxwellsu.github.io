@@ -16,6 +16,6 @@ As for waffling, I used to be an aviation photographer. I've planespotted at var
 
 I've attatched an example of my work below:
 
-![Sample](./docs/assets/20171223 N676AE.jpg) 
+![Sample](https://raw.githubusercontent.com/maxwellsu/maxwellsu.github.io/main/docs/assets/20171223%20N676AE.jpg) 
 
 If the work of an amateur aviation photographer interests you, you can contact me at ssue747@gmail.com.
